@@ -12,7 +12,7 @@ namespace NET_M1 {
             //ex1.fase23();
             //ex1.fase4();
 
-            Milestone2 m2 = new Milestone2();
+            Milestone3 m2 = new Milestone3();
             m2.init();
 
             Console.ReadKey();

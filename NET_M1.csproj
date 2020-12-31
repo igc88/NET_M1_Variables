@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Milestone3.cs" />
     <Compile Include="Classes\Milestone2.cs" />
     <Compile Include="Classes\Milestone1.cs" />
     <Compile Include="Program.cs" />
