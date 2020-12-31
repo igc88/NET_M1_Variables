@@ -1,0 +1,7 @@
+C:\Users\Iago\source\repos\igc88\NET_M1_Variables\bin\Debug\NET_M1.exe.config
+C:\Users\Iago\source\repos\igc88\NET_M1_Variables\bin\Debug\NET_M1.exe
+C:\Users\Iago\source\repos\igc88\NET_M1_Variables\bin\Debug\NET_M1.pdb
+C:\Users\Iago\source\repos\igc88\NET_M1_Variables\obj\Debug\NET_M1.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\igc88\NET_M1_Variables\obj\Debug\NET_M1.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\igc88\NET_M1_Variables\obj\Debug\NET_M1.exe
+C:\Users\Iago\source\repos\igc88\NET_M1_Variables\obj\Debug\NET_M1.pdb
